@@ -1,0 +1,4 @@
+1.git status：查看文件变动
+2.git add ./add 具体文件
+3.git commit -m “描述变更”
+4.git push 
